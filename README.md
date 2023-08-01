@@ -303,7 +303,7 @@ Testing the HAProxy server and ensuring it works with SSL:
 <p align="center">
 <br />
   
-5.	Go to your instances on AWS and stop the instance it connected you to.]
+5.	Go to your instances on AWS and stop the instance it connected you to.
   
 6.	Refresh the page on the browser and make sure your connected to the next instance.
   
